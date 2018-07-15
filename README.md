@@ -3,3 +3,5 @@
 
 
 ![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+
+![ScreenShot](https://raw.github.com/kitcat2014/KendoUI_Gregorian-Persian-Hijri_Calendar-DatePicker-TimePicker/blob/master/ScreenShot.png)
