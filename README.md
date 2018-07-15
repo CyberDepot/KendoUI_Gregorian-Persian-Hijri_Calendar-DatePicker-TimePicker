@@ -2,6 +2,4 @@
 تقویم شمسی، قمری و میلادی به همراه انتخاب گر تاریخ و زمان
 
 
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
-
-![ScreenShot](https://raw.github.com/kitcat2014/KendoUI_Gregorian-Persian-Hijri_Calendar-DatePicker-TimePicker/blob/master/ScreenShot.png)
+![screenshot](https://user-images.githubusercontent.com/11265147/42736280-5053ee9a-8879-11e8-86d1-e4bf5bde46f7.png)
