@@ -7,4 +7,4 @@
 ## this Project is a Fork From:
 https://github.com/MahdiNosratian/KendoUI-Persian-Calendar
 
-### For more information please check sample.html.
+### For more information please check ```sample.html```
