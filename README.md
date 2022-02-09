@@ -78,7 +78,3 @@
 
 ### For more information please check ```sample.html```
 
-با برنامه نویسان مهربان باشیم
-
-[![pay](https://user-images.githubusercontent.com/11265147/42736629-132c13d0-887e-11e8-98be-b2cb96228e57.png)
-](https://www.payping.ir/kitcat)
